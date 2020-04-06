@@ -1,0 +1,48 @@
+html {
+    background-color: white;
+}
+
+main {
+
+}
+.search {
+    background-color: burlywood;
+    display: flex;
+    min-height: 80vh;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    height: 30%;
+}
+
+#logo {
+}
+
+#search-box {
+    background-color: blueviolet;
+    display: flex;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 100vh;
+    height: 3em;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+#search-box-input {
+    background-color: brown;
+    width: 40vh;
+    height: 3em;
+    border-radius: 1.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.buttons {
+    height: 30em;
+}
